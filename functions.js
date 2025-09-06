@@ -23,4 +23,8 @@ const subtract=(x,y)=>
     return x-y;
 }
 console.log(subtract(200,100))
-
+const div=(x,y)=>
+{
+    return x/y;
+}
+console.log(div(10,2))

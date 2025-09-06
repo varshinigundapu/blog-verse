@@ -20,9 +20,7 @@ console.log(typeof arr)
 let person={
     name:"varshini",
     age:18
-    address:"siripuram"
 }
-console.log(person.age)
-console.log(person.name)
-console.log(person.addressz)
+console.log(person["age"])
+console.log(person["name"])
 console.log(typeof person)
